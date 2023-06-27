@@ -1,0 +1,15 @@
+/dump GMR.MeshTo(5813.868, 474.691, 658.783, pathEnd) --flying trainer dalaran
+/dump GMR.MeshTo(5887.954, 509.657, 641.57, pathEnd) --horde inkeeper dalaran
+/dump GMR.MeshTo(5922.61, 589.882, 639.861, pathEnd) --horde orgrimmar portal in dalaran
+/dump GMR.MeshTo(-8840.559, 489.7, 109.609, pathEnd) --alliance fp stormwind
+/dump GMR.MeshTo(-8792.914, 613.422, 96.773, pathEnd) --alliance repair stormwind near AH
+/dump GMR.MeshTo(-8575.119, 878.928, 106.518, pathEnd) --alliance paladin trainer
+/dump GMR.MeshTo(1938.546, -4137.22, 41.154, pathEnd) --orgrimmar paladin trainer
+/dump GMR.MeshTo(3265.022, -2192.978, 117.373, pathEnd) --horde dalaran teleport quest in grizzly hills
+/dump GMR.MeshTo(1674.856, -4318.212, 61.69, pathEnd) --orgrimmar flight master
+/dump GMR.MeshTo(1690.423, -4412.027, 21.903, pathEnd) --orgrimmar repair near AH
+/dump GMR.MeshTo(5442.903, -2628.629, 306.67, pathEnd) --alliance dalaran teleport quest in Zul'drak
+/dump GMR.MeshTo(5717.301, 682.528, 645.751, pathEnd) --dalaran alliance inkeeper
+/dump GMR.MeshTo(5720.406, 720.623, 641.652, pathEnd) --dalaran alliance stormwind portal in dalaran
+/dump GMR.MeshTo(1468.365, -4216.727, 59.22, pathEnd) --orgrimmar tbc portal
+/dump GMR.MeshTo(5562.938, 5758.218, -75.236, pathEnd) --sholazar mailbox
