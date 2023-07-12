@@ -1,3 +1,7 @@
+          Neutral / Both Factions
+/dump GMR.MeshTo(5813.868, 474.691, 658.783, pathEnd) Dalaran Flying Trainer
+
+
           Alliance
 Northrend
 /dump GMR.MeshTo(5717.301, 682.528, 645.751, pathEnd) Dalaran Innkeeper
